@@ -29,17 +29,20 @@ var ctx = document.getElementById('myChart');
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ['PHP', 'MySQL', 'GIT', 'jQuery', 'HTML5 & CSS3', 'Codeigniter'],
+        labels: ['PHP', 'MySQL', 'GIT', 'jQuery', 'HTML5 & CSS3', 'Laravel', 'Angular','AWS', 'Terraform'],
         datasets: [{
             label: 'Skills',
-            data: [8, 7, 8, 7, 8, 6,10],
+            data: [8, 7, 8, 7, 8, 6,5,6,8,10],
             backgroundColor: [
                 'rgb(76, 78, 81)',
                 'rgb(76, 78, 81)',
                 'rgb(76, 78, 81)',
                 'rgb(76, 78, 81)',
                 'rgb(76, 78, 81)',
-                'rgb(76, 78, 81))'
+                'rgb(76, 78, 81))',
+                'rgb(76, 78, 81))',
+                'rgb(76, 78, 81))',
+                'rgb(76, 78, 81))',
             ],
             borderColor: [
                 'rgb(76, 78, 81)',
@@ -47,7 +50,10 @@ var myChart = new Chart(ctx, {
                 'rgb(76, 78, 81)',
                 'rgb(76, 78, 81)',
                 'rgb(76, 78, 81)',
-                'rgb(76, 78, 81))'
+                'rgb(76, 78, 81))',
+                'rgb(76, 78, 81))',
+                'rgb(76, 78, 81))',
+                'rgb(76, 78, 81))',
             ],
             responsive: true
         }]
