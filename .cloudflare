@@ -1,0 +1,4 @@
+[build]
+command = "npm run build"
+output_directory = "build"
+package_manager = "npm"
