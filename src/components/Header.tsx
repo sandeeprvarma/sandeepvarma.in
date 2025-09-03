@@ -37,7 +37,7 @@ const Header = () => {
             </div>
             <div>
               <h1 className="font-heading font-bold text-lg text-foreground">Sandeep Varma</h1>
-              <p className="text-sm text-muted-foreground">DevOps & Cloud Engineer</p>
+              <p className="text-sm text-muted-foreground">DevOps & FullStack Engineer</p>
             </div>
           </motion.div>
 

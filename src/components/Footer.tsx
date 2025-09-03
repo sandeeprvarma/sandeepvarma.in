@@ -41,11 +41,11 @@ const Footer = () => {
                 </div>
                 <div>
                   <h3 className="font-heading font-bold text-xl">Sandeep Varma</h3>
-                  <p className="text-primary-foreground/80">DevOps & Cloud Engineer</p>
+                  <p className="text-primary-foreground/80">DevOps & FullStack Engineer</p>
                 </div>
               </div>
               <p className="text-primary-foreground/80 leading-relaxed mb-6 max-w-md">
-                DevOps & Cloud Engineer with 3+ years in infrastructure automation, CI/CD design, 
+                DevOps & FullStack Engineer with 3+ years in infrastructure automation, CI/CD design, 
                 and Kubernetes microservices on AWS—plus 7+ years of full-stack development experience.
               </p>
               
